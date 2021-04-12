@@ -1,0 +1,5 @@
+npm install --save-dev sass sass-loader
+
+
+
+npm install --save  core-js material-icons perfect-scrollbar prismjs vee-validate vue vue-backtotop vue-feather-icons vue-perfect-scrollbar vue-prism-component vue-router vue-select vue2-hammer vuedraggable vuejs-datepicker vuesax vuex
