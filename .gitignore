@@ -1,6 +1,5 @@
 /.idea
 /node_modules
-/public/js/chunks
 /public/temp
 /storage/*.key
 /vendor
